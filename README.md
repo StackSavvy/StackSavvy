@@ -2,6 +2,6 @@
 - 👀 I’m interested in web development, programming, and tech innovation.
 - 🌱 I’m currently learning JavaScript and React to enhance my front-end development skills.
 - 💞️ I’m looking to collaborate on exciting web development projects, open-source contributions, and coding challenges.
-- 📫 How to reach me: You can reach me via nimramalik.dev@gmail.com or through my GitHub profile.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to read books, especially fiction, and explore new tech ideas through YouTube tutorials!
+- 📫 You can reach me via nimramalik.dev@gmail.com or through my GitHub profile.
+- 😄 She/Her
+- ⚡ I love to read books, especially fiction, and explore new tech ideas through YouTube tutorials!
